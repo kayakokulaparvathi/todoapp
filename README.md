@@ -62,9 +62,6 @@ npm start
 - Click *Delete* to remove a task.
 - Use the checkbox to mark a task as completed.
 
-## Screenshot
-
-Add a screenshot of your application here.
 
 ## Future Enhancements
 
